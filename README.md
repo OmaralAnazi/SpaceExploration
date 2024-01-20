@@ -19,5 +19,5 @@ In this guided project from the Scrimba Front-End Developer Program, I created a
 Clone this repository and open the `index.html` file in a web browser to explore the space-themed page.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://aquamarine-sable-db1434.netlify.app/)
 
